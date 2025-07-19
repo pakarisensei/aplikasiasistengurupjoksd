@@ -1,14 +1,14 @@
 {
-  "name": "pjok-gemini-app",
+  "name": "pjok-assistant-netlify",
   "version": "1.0.0",
-  "description": "Fungsi Netlify untuk aplikasi Asisten Guru PJOK",
+  "description": "Netlify functions for PJOK Digital Assistant",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Your Name",
   "license": "ISC",
   "dependencies": {
-    "@google/generative-ai": "^0.14.1"
+    "@google/generative-ai": "^0.12.0"
   }
 }

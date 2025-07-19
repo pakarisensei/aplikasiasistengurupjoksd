@@ -1,2 +1,5 @@
+# Konfigurasi dasar untuk Netlify
 [build]
-  functions = "netlify/functions/"
+  # Direktori tempat Netlify akan menemukan fungsi serverless Anda.
+  # Pastikan direktori ini ada di root proyek Anda.
+  functions = "netlify/functions"
